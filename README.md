@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/harshgu81321060" target="blank"><img src="https://img.shields.io/twitter/follow/harshgu81321060?logo=twitter&style=for-the-badge" alt="harshgu81321060" /></a> </p>
 
-- 🔭 [hub.io/harsh-portfolio.github.io/](hub.io/harsh-portfolio.github.io/)
 
 - 🌱 I’m currently learning **NodeJs and ReactJs**
 
