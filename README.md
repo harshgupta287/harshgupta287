@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **NodeJs and ReactJs**
 
-- 👨‍💻 All of my projects are available at [https://harshgupta287.github.io/harsh-portfolio.github.io/](https://harshgupta287.github.io/harsh-portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [harsh-portfolio](https://harshgupta287.github.io/harsh-portfolio/)
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **harshgupta274402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17qKQpytCTOuaV5aMwzzCuekMkycyHcsO/view](https://drive.google.com/file/d/17qKQpytCTOuaV5aMwzzCuekMkycyHcsO/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1qHfdeS0JlmWJ5LWT0TG0T1VszWoLk3EE/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
